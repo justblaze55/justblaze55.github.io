@@ -11,10 +11,7 @@
     <style>
         body {
             background-image: url
-            ('[https://media.geeksforgeeks.org/
-              wp-content/uploads/20240503171539
-              /GeeksforGeeksInterviewSeriesPractice
-              ToCrackCodingRounds.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmatrix4&psig=AOvVaw3-_m6ykCu8vu6YbSMsZ9lr&ust=1742320430971000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjYqsXXkYwDFQAAAAAdAAAAABAE)');
+            ('https://gifer.com/en/gifs/matrix');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
