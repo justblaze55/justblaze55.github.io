@@ -1,9 +1,2 @@
 # justblaze55.github.io
-    </style>
-</head>
-
-<body>
-    <h2>Tip of the Spear</h2>
-</body>
-
-</html>
+<div style="background:white url(/images/backgrounds/background-image-2.gif) repeat fixed;width:300px;height:200px;">HTML background code example</div>
